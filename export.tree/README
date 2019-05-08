@@ -1,0 +1,19 @@
+This project contains 46 subjects at two sessions each. At each sessions,
+subjects acquired 6 repetitions of the ANT task (1-6). Scans are the same
+by number across subjects, although they were presented in varying orders.
+Task timing and anatomical scans by session are also included.
+
+The derivatives/ directory contains AFNI-preprocessed scans as well as
+anatomical scans skullstripped before defacing. The derivatives have been
+slice-timing corrected already, so 0s are provided for that field.
+
+At the top level is complete demographic information, the AFNI script for
+preprocessing.
+
+Exceptions
+----------
+One subject (RC4206) had an acquisition error during their second session
+structural scan. Correspondingly, their structural scan from their first
+session has been copied for their second session to create a valid
+BIDS directory.
+
