@@ -1,10 +1,10 @@
-This project contains 46 healthy aging (n = 25, RC41*) participants and
-participants with Parkinson's disease (n = 21, RC42*) at two sessions each. At
+This project contains 46 healthy aging (n = 25, RC41\*) participants and
+participants with Parkinson's disease (n = 21, RC42\*) at two sessions each. At
 each session, subjects acquired 6 repetitions of the ANT task (1-6). Scans are
 the same by number across subjects, although they were presented in varying
 orders. Task timing and anatomical scans by session are also included.
 
-The derivatives/ directory contains AFNI-preprocessed scans as well as
+The `derivatives/` directory contains AFNI-preprocessed scans as well as
 anatomical scans skullstripped before defacing. The derivatives have been
 slice-timing corrected already, so 0s are provided for that field.
 
