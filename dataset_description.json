@@ -10,7 +10,7 @@
         "Thomas J. Montine",
         "Thomas J. Grabowski"
     ],
-    "HowToAcknowledge": "Please cite the data paper:  Day TKM, Madhyastha TM, Askren MK et al. Attention Network Test fMRI data for participants with Parkinson\u2019s disease and healthy elderly [version 1; peer review: 2 approved]. F1000Research 2019, 8:780 (https://doi.org/10.12688/f1000research.19288.1) ",
+    "HowToAcknowledge": "Please cite the data paper: ---",
     "Funding": [
         "NIH RC4 NS073008",
         "NIH P50 NS062684",
@@ -20,5 +20,5 @@
         "doi.org/10.1016/j.nicl.2016.11.004",
         "doi.org/10.1089/brain.2014.0248"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds001907.v3.0.0"
+    "DatasetDOI": ""
 }
