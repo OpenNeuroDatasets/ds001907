@@ -1,0 +1,73 @@
+onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	target_pos	correct_resp	resp
+25.818	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+26.301	2	Incongruent	Incongruent	965	1	Left	Down	y	y
+41.31	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
+42.559	2	Congruent	Congruent	570	1	Left	Up	y	y
+49.073	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+55.819	2	Incongruent	Incongruent	795	1	Right	Down	g	g
+63.832	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+66.314	2	Incongruent	Incongruent	1225	1	Right	Down	g	g
+69.829	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
+70.312	2	Incongruent	Incongruent	610	1	Right	Up	g	g
+74.327	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+75.059	2	Congruent	Congruent	590	1	Left	Up	y	y
+85.071	0.2	NoCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
+86.804	2	Congruent	TargetErr	0	0	Right	Up	g	
+90.085	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
+91.068	2	Incongruent	Incongruent	668	1	Left	Down	y	y
+96.082	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
+101.06	2	Congruent	Congruent	898	1	Left	Up	y	y
+104.83	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+116.82	2	Congruent	Congruent	482	1	Left	Up	y	y
+122.34	0.2	NoCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
+122.82	2	Incongruent	TargetErr	1727	0	Right	Up	g	y
+125.83	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+129.32	2	Incongruent	Incongruent	962	1	Left	Up	y	y
+133.83	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+145.82	2	Congruent	Congruent	2168	1	Left	Down	y	
+150.84	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
+151.32	2	Congruent	Congruent	511	1	Right	Up	g	g
+155.84	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
+160.82	2	Incongruent	Incongruent	804	1	Right	Down	g	g
+164.83	0.2	SpatialCue	CueErr	n/a	n/a	n/a	Up	n/a	n/a
+166.56	2	Incongruent	TargetErr	0	0	Right	Up	g	
+169.59	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+170.06	2	Incongruent	Incongruent	1643	1	Left	Up	y	y
+173.83	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+177.31	2	Congruent	Congruent	710	1	Left	Down	y	y
+185.32	0.2	CenterCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
+186.3	2	Congruent	TargetErr	2410	0	Right	Down	g	
+192.83	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+194.07	2	Congruent	Congruent	768	1	Right	Down	g	g
+197.58	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+198.06	2	Congruent	Congruent	800	1	Right	Up	g	g
+213.07	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+215.57	2	Incongruent	Incongruent	979	1	Left	Up	y	y
+218.84	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+219.57	2	Incongruent	Incongruent	831	1	Left	Down	y	y
+225.08	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+231.81	2	Congruent	Congruent	1022	1	Right	Down	g	g
+241.83	0.2	CenterCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
+245.32	2	Incongruent	TargetErr	0	0	Right	Down	g	
+255.34	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
+256.57	2	Incongruent	Incongruent	806	1	Left	Up	y	y
+264.58	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+267.06	2	Incongruent	Incongruent	1385	1	Right	Up	g	g
+270.83	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
+271.81	2	Congruent	Congruent	842	1	Right	Down	g	g
+274.83	0.2	SpatialCue	CueErr	n/a	n/a	n/a	Down	n/a	n/a
+275.31	2	Congruent	TargetErr	0	0	Left	Down	y	
+279.34	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+286.07	2	Incongruent	Incongruent	767	1	Right	Up	g	g
+289.58	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+290.32	2	Congruent	Congruent	738	1	Left	Down	y	y
+295.33	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
+307.33	2	Congruent	Congruent	624	1	Right	Down	g	g
+313.84	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+315.57	2	Congruent	Congruent	823	1	Left	Up	y	y
+330.58	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
+335.58	2	Incongruent	Incongruent	879	1	Left	Down	y	y
+338.84	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
+339.33	2	Congruent	Congruent	795	1	Right	Up	g	g
+344.84	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
+345.32	2	Incongruent	Incongruent	764	1	Left	Down	y	y
