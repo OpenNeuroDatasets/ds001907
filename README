@@ -13,7 +13,9 @@ At the top level is complete demographic information and the AFNI script for
 preprocessing.
 
 Exceptions
+
 ----------
+
 One subject (RC4206) had an acquisition error during their second session
 structural scan. Correspondingly, their structural scan from their first
 session has been copied for their second session to create a valid
@@ -26,7 +28,9 @@ DTI scans for the first session of two participants have a larger dimension
 size compared to other DTI scans (RC4101, RC4201).
 
 Change Log
+
 ----------
+
 3.0.0   (2022/03/03)    Upload rest and DTI data
 2.0.3 	(2019/05/15)	Rename project
 2.0.1-2	(2019/05/10)	Tweaks to README
