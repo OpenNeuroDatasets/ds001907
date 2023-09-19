@@ -28,11 +28,10 @@ DTI scans for the first session of two participants have a larger dimension
 size compared to other DTI scans (RC4101, RC4201).
 
 ## Change Log
-
-
-3.0.0   (2022/03/03)    Upload rest and DTI data
-2.0.3 	(2019/05/15)	Rename project
-2.0.1-2	(2019/05/10)	Tweaks to README
-2.0.0	(2019/05/09)	Add processsed derivatives
-1.1.0	(2019/05/08)	Upload all subjects raw data + skullstrips
-1.0.0	(2019/05/08)	Upload one subject (API being weird)
+ - 3.1.0   (2023/09/19) Updates to events.tsvs, upload scan dates (in days since first scan)
+ - 3.0.0   (2022/03/03)    Upload rest and DTI data
+ - 2.0.3 	(2019/05/15)	Rename project
+ - 2.0.1-2	(2019/05/10)	Tweaks to README
+ - 2.0.0	(2019/05/09)	Add processsed derivatives
+ - 1.1.0	(2019/05/08)	Upload all subjects raw data + skullstrips
+ - 1.0.0	(2019/05/08)	Upload one subject (API being weird)
