@@ -1,3 +1,5 @@
+# ANT: Healthy aging and Parkinson's disease
+
 This project contains 46 aging participants, including 21 healthy aging (RC42*) and
 participants with Parkinson's disease (n = 25, RC41\*) at two sessions each. At
 each session, subjects acquired 6 repetitions of the ANT task (1-6). ANT task
@@ -12,9 +14,7 @@ slice-timing corrected already, so 0s are provided for that field.
 At the top level is complete demographic information and the AFNI script for
 preprocessing.
 
-Exceptions
-
-----------
+## Exceptions
 
 One subject (RC4206) had an acquisition error during their second session
 structural scan. Correspondingly, their structural scan from their first
@@ -27,9 +27,8 @@ RC4205, RC4226) and three subjects for the second session (RC4103, RC4106, RC420
 DTI scans for the first session of two participants have a larger dimension
 size compared to other DTI scans (RC4101, RC4201).
 
-Change Log
+## Change Log
 
-----------
 
 3.0.0   (2022/03/03)    Upload rest and DTI data
 2.0.3 	(2019/05/15)	Rename project
