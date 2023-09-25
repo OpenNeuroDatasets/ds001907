@@ -1,3 +1,6 @@
+3.1.0 2023-09-25
+  - Added file containing difference in days between scans
+  - Fixed empty field in TSVs causing BIDS error
 3.0.2 2022-03-07
   - Added Nicholas J. Wapstra to the list of contributors
 3.0.1 2022-03-03
