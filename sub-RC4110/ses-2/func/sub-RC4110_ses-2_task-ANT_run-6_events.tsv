@@ -34,7 +34,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 169.56	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
 170.04	2	Congruent	Congruent	848	1	Right	Up	g	g
 173.81	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
-177.29	2	Congruent	Congruent	2246	1	Right	Up	g	
+177.29	2	Congruent	Congruent	2246	1	Right	Up	g	n/a
 185.32	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
 186.3	2	Congruent	Congruent	579	1	Left	Down	y	y
 192.81	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
@@ -50,7 +50,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 241.81	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
 245.3	2	Incongruent	Incongruent	830	1	Left	Down	y	y
 255.31	0.2	NoCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
-256.55	2	Incongruent	TargetErr	0	0	Left	Up	y	
+256.55	2	Incongruent	TargetErr	0	0	Left	Up	y	n/a
 264.58	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
 267.06	2	Incongruent	Incongruent	1193	1	Right	Up	g	g
 270.82	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
@@ -60,7 +60,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 279.32	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
 286.05	2	Congruent	Congruent	955	1	Left	Up	y	y
 289.56	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
-290.3	2	Incongruent	Incongruent	2207	1	Right	Down	g	
+290.3	2	Incongruent	Incongruent	2207	1	Right	Down	g	n/a
 295.33	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
 307.31	2	Congruent	Congruent	793	1	Right	Up	g	g
 313.82	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a

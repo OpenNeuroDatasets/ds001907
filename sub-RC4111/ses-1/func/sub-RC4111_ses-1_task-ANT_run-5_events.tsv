@@ -20,7 +20,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 104.81	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
 116.8	2	Congruent	Congruent	731	1	Left	Up	y	y
 122.32	0.2	NoCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
-122.8	2	Incongruent	TargetErr	0	0	Right	Up	g	
+122.8	2	Incongruent	TargetErr	0	0	Right	Up	g	n/a
 125.83	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
 129.3	2	Incongruent	Incongruent	816	1	Left	Up	y	y
 133.81	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a

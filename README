@@ -1,7 +1,5 @@
-# ANT: Healthy aging and Parkinson's disease
-
-This project contains 46 aging participants, including 21 healthy aging (RC42*) and
-participants with Parkinson's disease (n = 25, RC41\*) at two sessions each. At
+This project contains 46 healthy aging (n = 25, RC41\*) participants and
+participants with Parkinson's disease (n = 21, RC42\*) at two sessions each. At
 each session, subjects acquired 6 repetitions of the ANT task (1-6). ANT task
 scans are the same by number across subjects, although they were presented in 
 varying orders. Task timing, anatomical scans, resting scans, and DTI scans 
@@ -14,8 +12,8 @@ slice-timing corrected already, so 0s are provided for that field.
 At the top level is complete demographic information and the AFNI script for
 preprocessing.
 
-## Exceptions
-
+Exceptions
+----------
 One subject (RC4206) had an acquisition error during their second session
 structural scan. Correspondingly, their structural scan from their first
 session has been copied for their second session to create a valid
@@ -27,11 +25,11 @@ RC4205, RC4226) and three subjects for the second session (RC4103, RC4106, RC420
 DTI scans for the first session of two participants have a larger dimension
 size compared to other DTI scans (RC4101, RC4201).
 
-## Change Log
- - 3.1.0   (2023/09/19) Updates to events.tsvs, upload scan dates (in days since first scan)
- - 3.0.0   (2022/03/03)    Upload rest and DTI data
- - 2.0.3 	(2019/05/15)	Rename project
- - 2.0.1-2	(2019/05/10)	Tweaks to README
- - 2.0.0	(2019/05/09)	Add processsed derivatives
- - 1.1.0	(2019/05/08)	Upload all subjects raw data + skullstrips
- - 1.0.0	(2019/05/08)	Upload one subject (API being weird)
+Change Log
+----------
+3.0.0   (2022/03/03)    Upload rest and DTI data
+2.0.3 	(2019/05/15)	Rename project
+2.0.1-2	(2019/05/10)	Tweaks to README
+2.0.0	(2019/05/09)	Add processsed derivatives
+1.1.0	(2019/05/08)	Upload all subjects raw data + skullstrips
+1.0.0	(2019/05/08)	Upload one subject (API being weird)

@@ -12,7 +12,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 74.329	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
 75.062	2	Incongruent	Incongruent	1059	1	Left	Down	y	y
 85.074	0.2	CenterCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
-86.807	2	Incongruent	TargetErr	0	0	Left	Up	y	
+86.807	2	Incongruent	TargetErr	0	0	Left	Up	y	n/a
 90.088	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
 91.071	2	Incongruent	Incongruent	1370	1	Right	Up	g	g
 96.085	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
@@ -28,7 +28,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 150.84	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
 151.32	2	Congruent	Congruent	1049	1	Left	Down	y	y
 155.84	0.2	NoCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
-160.82	2	Incongruent	TargetErr	0	0	Left	Up	y	
+160.82	2	Incongruent	TargetErr	0	0	Left	Up	y	n/a
 164.85	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
 166.58	2	Incongruent	Incongruent	1345	1	Right	Down	g	g
 169.6	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
@@ -42,7 +42,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 197.59	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
 198.07	2	Congruent	Congruent	1082	1	Left	Down	y	y
 213.08	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
-215.58	2	Incongruent	Incongruent	2127	1	Left	Up	y	
+215.58	2	Incongruent	Incongruent	2127	1	Left	Up	y	n/a
 218.84	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Down	n/a	n/a
 219.57	2	Incongruent	Incongruent	1265	1	Right	Down	g	g
 225.09	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
@@ -60,7 +60,7 @@ onset	duration	trial_type	trial_type_err	response_time	accuracy	target_dir	targe
 279.34	0.2	CenterCue	CenterCue	n/a	n/a	n/a	n/a	n/a	n/a
 286.07	2	Congruent	Congruent	1002	1	Left	Up	y	y
 289.59	0.2	CenterCue	CueErr	n/a	n/a	n/a	n/a	n/a	n/a
-290.32	2	Incongruent	TargetErr	0	0	Right	Down	g	
+290.32	2	Incongruent	TargetErr	0	0	Right	Down	g	n/a
 295.35	0.2	NoCue	NoCue	n/a	n/a	n/a	n/a	n/a	n/a
 307.33	2	Congruent	Congruent	1159	1	Right	Up	g	g
 313.84	0.2	SpatialCue	SpatialCue	n/a	n/a	n/a	Up	n/a	n/a
