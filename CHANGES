@@ -1,3 +1,5 @@
+3.2.0 2025-06-16
+  - Correct HC/PD numbers
 3.1.0 2023-09-25
   - Added file containing difference in days between scans
   - Fixed empty field in TSVs causing BIDS error
